@@ -9,6 +9,8 @@
 
 ## 📋 Table of Contents
 
+App URL : https://ml-credit-risk-analyser-kasimajji.streamlit.app/
+
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
 - [Dataset Description](#-dataset-description)
