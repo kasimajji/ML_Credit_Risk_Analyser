@@ -6,9 +6,6 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.14.0-3F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <img src="images/features_risk_score.png" alt="Credit Risk Features" width="600"/>
-</div>
 
 ## 📋 Table of Contents
 
@@ -75,8 +72,8 @@ The credit risk prediction system uses a **Logistic Regression** model with the 
   - Creation of interaction features (e.g., loan_to_income ratio)
 - **Performance**:
   - Accuracy: 92.4%
-  - Precision: 89.2%
-  - Recall: 76.5%
+  - Precision: 54.2%
+  - Recall: 93.5%
   - F1-Score: 82.4%
   - ROC AUC: 0.91
 
@@ -186,8 +183,8 @@ The model was evaluated using 5-fold cross-validation and tested on a holdout se
 | Metric    | Score |
 | --------- | ----- |
 | Accuracy  | 92.4% |
-| Precision | 89.2% |
-| Recall    | 76.5% |
+| Precision | 54.2% |
+| Recall    | 93.5% |
 | F1-Score  | 82.4% |
 | ROC AUC   | 0.91  |
 
