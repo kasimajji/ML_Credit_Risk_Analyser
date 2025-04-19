@@ -231,7 +231,7 @@ if selected_tab == "📋 Application Form":
         # Change to the Results tab
         change_tab(1)
         # Rerun the app to apply the tab change
-        st.rerun()
+        st.experimental_rerun()
 
 # Results Tab
 elif selected_tab == "📊 Results":
